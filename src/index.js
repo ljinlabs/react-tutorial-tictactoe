@@ -25,6 +25,7 @@ function Square(props) {
         let currentNumber = 0;
         let row = <div className="board-row"></div>
         // for (let i = 0; i < 3; )
+        let mainContainer = <div></div>;
       return (
         <div>
           <div className="board-row">
